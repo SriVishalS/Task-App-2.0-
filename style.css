@@ -8,7 +8,13 @@
 
 body {
   font-family: "Fredoka One", cursive;
-  background-image: linear-gradient(to right, #e22865, #37adcd);
+  background: linear-gradient(
+    to right,
+    #0052d4,
+    #65c7f7,
+    #9cecfb
+  );
+
   color: #fff;
 }
 
